@@ -1,0 +1,1499 @@
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 3 | Accuracy: 0.7500
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 0.6667
+Round Completed for Client 1 | Accuracy: 0.9167
+Partition 4: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 0.8333
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.8333
+Round Completed for Client 7 | Accuracy: 0.7500
+Round Completed for Client 0 | Accuracy: 0.7500
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 0.6667
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.7500
+Round Completed for Client 7 | Accuracy: 0.8333
+Round Completed for Client 5 | Accuracy: 0.7500
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.7500
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.7500
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.6667
+Round Completed for Client 3 | Accuracy: 0.7500
+Round Completed for Client 2 | Accuracy: 0.9167
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 4 | Accuracy: 0.8333
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.9167
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 0.7500
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.7500
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Round Completed for Client 3 | Accuracy: 1.0000
+Round Completed for Client 0 | Accuracy: 0.7500
+Round Completed for Client 1 | Accuracy: 1.0000
+Partition 4: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 0.9167
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Round Completed for Client 5 | Accuracy: 0.7500
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.7500
+Round Completed for Client 8 | Accuracy: 0.7500
+Partition 9: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 0.8333
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.9167
+Round Completed for Client 0 | Accuracy: 0.8333
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 0.9167
+Partition 4: Loaded 12 training samples.
+Round Completed for Client 3 | Accuracy: 0.7500
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.9167
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.8333
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 1.0000
+Round Completed for Client 6 | Accuracy: 0.7500
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.9167
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 3 | Accuracy: 1.0000
+Round Completed for Client 2 | Accuracy: 0.7500
+Round Completed for Client 1 | Accuracy: 0.9167
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 0.7500
+Round Completed for Client 7 | Accuracy: 1.0000
+Partition 9: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.9167
+Round Completed for Client 8 | Accuracy: 0.9167
+Partition 2: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 1 | Accuracy: 1.0000
+Round Completed for Client 3 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 0.9167
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 7 | Accuracy: 1.0000
+Round Completed for Client 4 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 0.8333
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.7500
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.7500
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 2 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 0.9167
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.7500
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 7 | Accuracy: 1.0000
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.7500
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 1.0000
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 0.8333
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 1.0000
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.8333
+Partition 8: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 1.0000
+Round Completed for Client 8 | Accuracy: 1.0000
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 0.7500
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.8333
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 1.0000
+Round Completed for Client 7 | Accuracy: 1.0000
+Round Completed for Client 5 | Accuracy: 0.8333
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.8333
+Round Completed for Client 8 | Accuracy: 1.0000
+Partition 2: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Partition 1: Loaded 12 training samples.
+Round Completed for Client 3 | Accuracy: 0.9167
+Partition 4: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 0.7500
+Round Completed for Client 1 | Accuracy: 0.9167
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.7500
+Round Completed for Client 6 | Accuracy: 0.7500
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 1.0000
+Round Completed for Client 8 | Accuracy: 0.9167
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.9167
+Partition 1: Loaded 12 training samples.
+Round Completed for Client 3 | Accuracy: 0.6667
+Partition 4: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 0.9167
+Round Completed for Client 1 | Accuracy: 0.9167
+Round Completed for Client 4 | Accuracy: 0.8333
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.9167
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 8 | Accuracy: 1.0000
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 1.0000
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 1 | Accuracy: 0.8333
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 0.7500
+Partition 4: Loaded 12 training samples.
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.7500
+Round Completed for Client 4 | Accuracy: 0.8333
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 1.0000
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 1.0000
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 0.9167
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 1 | Accuracy: 1.0000
+Round Completed for Client 3 | Accuracy: 0.8333
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 1.0000
+Partition 6: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 1.0000
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 4 | Accuracy: 1.0000
+Partition 9: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.8333
+Round Completed for Client 8 | Accuracy: 1.0000
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 4: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 1.0000
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.9167
+Round Completed for Client 2 | Accuracy: 0.9167
+Round Completed for Client 1 | Accuracy: 1.0000
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 8 | Accuracy: 0.8333
+Round Completed for Client 7 | Accuracy: 0.9167
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 1.0000
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 1.0000
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 1.0000
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 0.9167
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.9167
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 1.0000
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 0.6667
+Partition 6: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.8333
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.9167
+Round Completed for Client 5 | Accuracy: 0.9167
+Round Completed for Client 7 | Accuracy: 1.0000
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.9167
+Round Completed for Client 8 | Accuracy: 0.9167
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 1.0000
+Partition 1: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.8333
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.9167
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.7500
+Round Completed for Client 4 | Accuracy: 1.0000
+Round Completed for Client 6 | Accuracy: 0.8333
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 1.0000
+Partition 9: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.9167
+Round Completed for Client 8 | Accuracy: 0.7500
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 1 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 1.0000
+Round Completed for Client 2 | Accuracy: 1.0000
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 4 | Accuracy: 0.8333
+Round Completed for Client 7 | Accuracy: 1.0000
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 1.0000
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 1 | Accuracy: 0.7500
+Round Completed for Client 2 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 1.0000
+Round Completed for Client 6 | Accuracy: 0.9167
+Round Completed for Client 7 | Accuracy: 0.9167
+Round Completed for Client 5 | Accuracy: 0.9167
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.9167
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 3 | Accuracy: 0.9167
+Round Completed for Client 1 | Accuracy: 0.9167
+Round Completed for Client 2 | Accuracy: 0.9167
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 0.9167
+Round Completed for Client 7 | Accuracy: 0.9167
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.9167
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 3 | Accuracy: 1.0000
+Round Completed for Client 0 | Accuracy: 0.9167
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 0.8333
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 4 | Accuracy: 0.9167
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 0.9167
+Round Completed for Client 8 | Accuracy: 0.9167
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 3: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 0.6667
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.9167
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 2 | Accuracy: 0.7500
+Round Completed for Client 5 | Accuracy: 0.8333
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.9167
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 0.9167
+Round Completed for Client 8 | Accuracy: 0.9167
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 3 | Accuracy: 0.9167
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 1.0000
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 1.0000
+Round Completed for Client 5 | Accuracy: 0.8333
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 1.0000
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.8333
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.9167
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 3 | Accuracy: 1.0000
+Round Completed for Client 2 | Accuracy: 0.7500
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 4 | Accuracy: 1.0000
+Round Completed for Client 5 | Accuracy: 0.9167
+Round Completed for Client 7 | Accuracy: 0.9167
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 1.0000
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.7500
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 2: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 1.0000
+Partition 4: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 1.0000
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.7500
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.8333
+Partition 0: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 0.7500
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 8 | Accuracy: 0.7500
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.7500
+Round Completed for Client 3 | Accuracy: 0.7500
+Partition 4: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 0.9167
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 4 | Accuracy: 0.8333
+Partition 5: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.7500
+Round Completed for Client 8 | Accuracy: 1.0000
+Round Completed for Client 6 | Accuracy: 0.7500
+Round Completed for Client 7 | Accuracy: 0.7500
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 0.7500
+Partition 4: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Round Completed for Client 0 | Accuracy: 0.8333
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.9167
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 3 | Accuracy: 1.0000
+Round Completed for Client 5 | Accuracy: 0.9167
+Round Completed for Client 6 | Accuracy: 0.7500
+Partition 8: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 0.7500
+Round Completed for Client 9 | Accuracy: 0.8333
+Round Completed for Client 8 | Accuracy: 1.0000
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 0.6667
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 4: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 0.6667
+Round Completed for Client 4 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 0.7500
+Round Completed for Client 5 | Accuracy: 0.7500
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.8333
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.7500
+Round Completed for Client 1 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 0.9167
+Round Completed for Client 2 | Accuracy: 0.7500
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.7500
+Round Completed for Client 5 | Accuracy: 0.8333
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 0.7500
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 1.0000
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 0.6667
+Round Completed for Client 3 | Accuracy: 0.7500
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 4 | Accuracy: 0.9167
+Round Completed for Client 5 | Accuracy: 0.7500
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 0.9167
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 8 | Accuracy: 0.9167
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 0.7500
+Round Completed for Client 2 | Accuracy: 0.7500
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.9167
+Round Completed for Client 5 | Accuracy: 0.7500
+Round Completed for Client 6 | Accuracy: 0.7500
+Round Completed for Client 7 | Accuracy: 0.9167
+Partition 9: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.9167
+Round Completed for Client 8 | Accuracy: 0.8333
+Partition 3: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.7500
+Round Completed for Client 2 | Accuracy: 0.7500
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 3 | Accuracy: 0.7500
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.7500
+Partition 8: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 8 | Accuracy: 0.8333
+Round Completed for Client 7 | Accuracy: 0.9167
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.7500
+Round Completed for Client 1 | Accuracy: 0.6667
+Round Completed for Client 2 | Accuracy: 1.0000
+Round Completed for Client 3 | Accuracy: 0.9167
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.9167
+Round Completed for Client 5 | Accuracy: 0.7500
+Round Completed for Client 6 | Accuracy: 0.9167
+Round Completed for Client 7 | Accuracy: 0.9167
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.7500
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 0.7500
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 4 | Accuracy: 0.9167
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 7 | Accuracy: 1.0000
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.8333
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 3 | Accuracy: 1.0000
+Round Completed for Client 2 | Accuracy: 0.9167
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 0.9167
+Round Completed for Client 7 | Accuracy: 0.7500
+Round Completed for Client 4 | Accuracy: 0.9167
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 1.0000
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 0.8333
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 3 | Accuracy: 0.7500
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 0.6667
+Round Completed for Client 7 | Accuracy: 0.8333
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.8333
+Round Completed for Client 8 | Accuracy: 0.6667
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 0.7500
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 1.0000
+Round Completed for Client 4 | Accuracy: 1.0000
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 7 | Accuracy: 1.0000
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.9167
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.8333
+Round Completed for Client 1 | Accuracy: 0.7500
+Round Completed for Client 2 | Accuracy: 0.7500
+Round Completed for Client 3 | Accuracy: 0.9167
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 0.7500
+Round Completed for Client 7 | Accuracy: 1.0000
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.8333
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.9167
+Partition 1: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 1.0000
+Round Completed for Client 1 | Accuracy: 0.8333
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 0.6667
+Round Completed for Client 3 | Accuracy: 1.0000
+Round Completed for Client 5 | Accuracy: 0.8333
+Partition 6: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 0.8333
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 0.8333
+Round Completed for Client 8 | Accuracy: 1.0000
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.9167
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 2 | Accuracy: 1.0000
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 0.7500
+Round Completed for Client 7 | Accuracy: 1.0000
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.8333
+Round Completed for Client 8 | Accuracy: 0.7500
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 0.6667
+Round Completed for Client 0 | Accuracy: 0.8333
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 1.0000
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.7500
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 7 | Accuracy: 0.8333
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 1.0000
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 1 | Accuracy: 0.9167
+Round Completed for Client 2 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 1.0000
+Round Completed for Client 5 | Accuracy: 0.7500
+Round Completed for Client 6 | Accuracy: 0.9167
+Round Completed for Client 7 | Accuracy: 0.9167
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.9167
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 1.0000
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 0.8333
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 1.0000
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 7 | Accuracy: 0.9167
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.7500
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 1.0000
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 1.0000
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 2 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.9167
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 1.0000
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 0.9167
+Round Completed for Client 6 | Accuracy: 0.9167
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.8333
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 2 | Accuracy: 1.0000
+Round Completed for Client 1 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 0.6667
+Round Completed for Client 0 | Accuracy: 0.8333
+Partition 4: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Round Completed for Client 7 | Accuracy: 0.9167
+Round Completed for Client 5 | Accuracy: 0.8333
+Partition 6: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.7500
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 9 | Accuracy: 0.9167
+Round Completed for Client 8 | Accuracy: 0.8333
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 2 | Accuracy: 0.5833
+Round Completed for Client 3 | Accuracy: 1.0000
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 1.0000
+Round Completed for Client 7 | Accuracy: 1.0000
+Round Completed for Client 5 | Accuracy: 0.8333
+Partition 6: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.9167
+Round Completed for Client 8 | Accuracy: 0.9167
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 3 | Accuracy: 1.0000
+Round Completed for Client 1 | Accuracy: 0.7500
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 2 | Accuracy: 0.9167
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 1.0000
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.8333
+Round Completed for Client 6 | Accuracy: 0.8333
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 1.0000
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 0.8333
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Round Completed for Client 1 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 1.0000
+Round Completed for Client 2 | Accuracy: 0.9167
+Partition 4: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.9167
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.8333
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.9167
+Round Completed for Client 6 | Accuracy: 0.8333
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 7 | Accuracy: 1.0000
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 1.0000
+Round Completed for Client 9 | Accuracy: 0.9167
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.
+Partition 0: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Round Completed for Client 0 | Accuracy: 0.9167
+Round Completed for Client 1 | Accuracy: 0.8333
+Round Completed for Client 2 | Accuracy: 0.9167
+Round Completed for Client 3 | Accuracy: 0.8333
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Round Completed for Client 4 | Accuracy: 0.9167
+Partition 7: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Round Completed for Client 5 | Accuracy: 0.8333
+Partition 8: Loaded 12 training samples.
+Round Completed for Client 6 | Accuracy: 0.8333
+Round Completed for Client 7 | Accuracy: 1.0000
+Partition 9: Loaded 12 training samples.
+Round Completed for Client 8 | Accuracy: 1.0000
+Round Completed for Client 9 | Accuracy: 0.8333
+Partition 0: Loaded 12 training samples.
+Partition 1: Loaded 12 training samples.
+Partition 3: Loaded 12 training samples.
+Partition 2: Loaded 12 training samples.
+Partition 4: Loaded 12 training samples.
+Partition 5: Loaded 12 training samples.
+Partition 6: Loaded 12 training samples.
+Partition 7: Loaded 12 training samples.
+Partition 8: Loaded 12 training samples.
+Partition 9: Loaded 12 training samples.

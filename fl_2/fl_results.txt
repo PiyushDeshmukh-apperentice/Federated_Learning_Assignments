@@ -1,0 +1,124 @@
+[EVAL] Accuracy: 11.19% | Loss: 2.3046
+
+>>> [ROUND ?] CLIENT 2 ACTIVE <<<
+
+>>> [ROUND ?] CLIENT 3 ACTIVE <<<
+
+>>> [ROUND ?] CLIENT 0 ACTIVE <<<
+
+>>> [ROUND ?] CLIENT 1 ACTIVE <<<
+[Client 1] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 4 ACTIVE <<<
+[Client 3] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 5 ACTIVE <<<
+[Client 0] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 6 ACTIVE <<<
+[Client 2] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 7 ACTIVE <<<
+[Client 4] Update packaged and sent to server.
+[Client 6] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 8 ACTIVE <<<
+
+>>> [ROUND ?] CLIENT 9 ACTIVE <<<
+[Client 5] Update packaged and sent to server.
+[Client 7] Update packaged and sent to server.
+[Client 9] Update packaged and sent to server.
+[Client 8] Update packaged and sent to server.
+[EVAL] Accuracy: 10.80% | Loss: 2.3076
+[EVAL] Accuracy: 10.00% | Loss: 2.3002
+[EVALUATION] Client 0 | Accuracy: 10.80% | Loss: 2.3076
+[EVALUATION] Client 5 | Accuracy: 10.00% | Loss: 2.3002
+[EVAL] Accuracy: 10.80% | Loss: 2.3069
+[EVALUATION] Client 1 | Accuracy: 10.80% | Loss: 2.3069
+[EVAL] Accuracy: 10.20% | Loss: 2.3090
+[EVALUATION] Client 3 | Accuracy: 10.20% | Loss: 2.3090
+[EVAL] Accuracy: 10.00% | Loss: 2.3093
+[EVALUATION] Client 8 | Accuracy: 10.00% | Loss: 2.3093
+[EVAL] Accuracy: 10.00% | Loss: 2.3058
+
+>>> [ROUND ?] CLIENT 2 ACTIVE <<<
+
+>>> [ROUND ?] CLIENT 3 ACTIVE <<<
+
+>>> [ROUND ?] CLIENT 1 ACTIVE <<<
+
+>>> [ROUND ?] CLIENT 0 ACTIVE <<<
+[Client 0] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 4 ACTIVE <<<
+[Client 1] Update packaged and sent to server.
+[Client 3] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 5 ACTIVE <<<
+
+>>> [ROUND ?] CLIENT 6 ACTIVE <<<
+[Client 2] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 7 ACTIVE <<<
+[Client 4] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 8 ACTIVE <<<
+[Client 5] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 9 ACTIVE <<<
+[Client 7] Update packaged and sent to server.
+[Client 6] Update packaged and sent to server.
+[Client 8] Update packaged and sent to server.
+[Client 9] Update packaged and sent to server.
+[EVAL] Accuracy: 11.20% | Loss: 2.2449
+[EVALUATION] Client 8 | Accuracy: 11.20% | Loss: 2.2449
+[EVAL] Accuracy: 11.10% | Loss: 2.2440
+[EVALUATION] Client 6 | Accuracy: 11.10% | Loss: 2.2440
+[EVAL] Accuracy: 12.30% | Loss: 2.2362
+[EVALUATION] Client 0 | Accuracy: 12.30% | Loss: 2.2362
+[EVAL] Accuracy: 11.50% | Loss: 2.2426
+[EVALUATION] Client 3 | Accuracy: 11.50% | Loss: 2.2426
+[EVAL] Accuracy: 11.70% | Loss: 2.2361
+[EVALUATION] Client 9 | Accuracy: 11.70% | Loss: 2.2361
+[EVAL] Accuracy: 11.68% | Loss: 2.2377
+
+>>> [ROUND ?] CLIENT 2 ACTIVE <<<
+
+>>> [ROUND ?] CLIENT 3 ACTIVE <<<
+
+>>> [ROUND ?] CLIENT 0 ACTIVE <<<
+
+>>> [ROUND ?] CLIENT 1 ACTIVE <<<
+[Client 0] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 4 ACTIVE <<<
+[Client 2] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 5 ACTIVE <<<
+[Client 3] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 6 ACTIVE <<<
+[Client 1] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 7 ACTIVE <<<
+[Client 4] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 8 ACTIVE <<<
+[Client 7] Update packaged and sent to server.
+[Client 6] Update packaged and sent to server.
+
+>>> [ROUND ?] CLIENT 9 ACTIVE <<<
+[Client 5] Update packaged and sent to server.
+[Client 8] Update packaged and sent to server.
+[Client 9] Update packaged and sent to server.
+[EVAL] Accuracy: 16.80% | Loss: 2.2271
+[EVALUATION] Client 8 | Accuracy: 16.80% | Loss: 2.2271
+[EVAL] Accuracy: 15.60% | Loss: 2.2451
+[EVALUATION] Client 3 | Accuracy: 15.60% | Loss: 2.2451
+[EVAL] Accuracy: 16.70% | Loss: 2.2362
+[EVALUATION] Client 7 | Accuracy: 16.70% | Loss: 2.2362
+[EVAL] Accuracy: 16.30% | Loss: 2.2411
+[EVALUATION] Client 1 | Accuracy: 16.30% | Loss: 2.2411
+[EVAL] Accuracy: 17.50% | Loss: 2.2171
+[EVALUATION] Client 9 | Accuracy: 17.50% | Loss: 2.2171
+[EVAL] Accuracy: 16.70% | Loss: 2.2262
