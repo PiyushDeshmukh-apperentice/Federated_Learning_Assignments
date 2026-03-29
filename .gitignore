@@ -4,3 +4,9 @@ fl_2/pytorchexample/__pycache__/
 fl_3/sklearnexample/__pycache__/
 fl_4/__pycache__/
 fl_5/__pycache__/
+fl_7/__pycache__/
+flsim_env/
+data/
+.vscode/
+__pycache__/
+runs/
